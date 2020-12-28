@@ -16,6 +16,6 @@ $_SESSION['session'] = $_POST['session'];
 
 $_SESSION['branch'] = $_POST['branch'];
 
-header("Location: indexv2.php");
+header("Location: cancelreservationmodal.php");
 return;
  ?>
