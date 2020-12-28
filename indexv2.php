@@ -401,7 +401,7 @@ session_start();
                                     </div>
                                     </div>
                                     <div class="form-group row offset-1">
-                                                <button type="submit" class="btn btn-primary">Reserve</button>
+                                                <button type="submit" class="btn btn-primary">Cancle Reserve</button>
                                             </div>
                                         </div>
                     </form>
