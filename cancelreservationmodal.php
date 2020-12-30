@@ -25,7 +25,7 @@ function getCustomername(){
         ':ln' => $branch,
         ':em' => $session));
     
-    $_SESSION['message'] =  getCustomername().', thankyou for chossing Restorante ConFusion and your reservation is cancelled';
+    $_SESSION['message'] =  getCustomername().', thankyou for chossing Hungry and your reservation is cancelled';
     $_SESSION['model'] ='done';
     	header("Location: indexv2.php");
         return; 
